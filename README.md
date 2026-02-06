@@ -4,20 +4,30 @@ The Social Media Manager Agent is a beginner-level Python project that simulates
 The agent helps automate content creation and scheduling by generating captions and hashtags based on a user-provided topic and storing them for future use.
 This project demonstrates the core concept of AI agents using simple rule-based logic and modular programming.
 
-Objectives
+Objectives-
 
 To automate social media content generation
+
 To generate captions and hashtags for posts
+
 To simulate post scheduling using file storage
+
 To understand agent-based system workflow
+
 To practice modular programming in Python
 
- Agent Working Principle
+ Agent Working Principle-
+ 
 The agent follows a simple AI workflow:
+
 Input – User provides a post topic
+
 Processing – Caption and hashtags are generated
+
 Action – Generated content is saved
+
 Memory – Stored posts act as agent memory
+
 This mirrors how real AI agents operate in practical systems.
 
 🗂️Project Structure
