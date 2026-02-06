@@ -29,6 +29,7 @@ social_media_agent/
 └── posts.txt
 
 ▶️ How to Run the Project
+
 Requirements
 
 Python 3.x
@@ -44,35 +45,55 @@ Run the command:
 python agent.py
 
  Sample Input
+ 
 Enter post topic: Women Safety Awareness
 
- Sample Output
+ Sample Output-
+ 
 Caption:  New post about Women Safety Awareness! Stay connected for more updates.
+
 Hashtags: #WomenSafetyAwareness #socialmedia #trending #viral
 
- Technologies Used
+ Technologies Used-
+ 
 Python
+
 File Handling
+
 Modular Programming
 
- Key Features
+ Key Features-
+ 
 Beginner-friendly implementation
+
 Clear modular design
+
 Emoji-safe UTF-8 file handling
+
 Real-world social media automation concept
+
 Easy to extend and modify
 
- Learning Outcomes
+ Learning Outcomes-
+ 
 Understanding AI agent architecture
+
 Practical experience with Python modules
+
 Knowledge of file handling and encoding
+
 Automation basics for real-world applications
 
- Future Enhancements
+ Future Enhancements-
+ 
 Integration with OpenAI / ChatGPT API
+
 Auto-posting using social media APIs
+
 Web interface using HTML, CSS, and Python
+
 Analytics and engagement tracking
+
 Multi-agent social media system
 
  Conclusion
